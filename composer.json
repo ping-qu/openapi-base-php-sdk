@@ -1,0 +1,32 @@
+{
+	"name": "ping-qu/openapi-base",
+	"description": "openapi base php library",
+	"version": "0.0.1",
+	"require": {
+		"php": ">=5.3",
+		"ping-qu/exception": "0.0.*"
+	},
+	"require-dev": {
+	},
+	"autoload": {
+		"psr-4": {
+			"Pingqu\\": "src/"
+
+		}
+	},
+	"license": "LGP-2.1",
+	"authors": [
+		{
+			"name": "yuchonghua",
+			"email": "yuchonghua@163.com"
+		},
+		{
+			"name": "linyue",
+			"email": "769353695@qq.com"
+		},
+		{
+			"name": "zengfangyao",
+			"email": "zengfanyaotara@163.com"
+		}
+	]
+}
