@@ -1,10 +1,10 @@
-# video-transcoder
+# openapi-base
 
 Installation - 安装
 ------------
 
 ```bash
-composer require ping-qu/video-transcoder
+composer require ping-qu/openapi-base
 ```
 
 ------
